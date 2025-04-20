@@ -1,1 +1,3 @@
-Unauthorized
+numpy
+matplotlib
+scikit-learn
